@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEF9577-D8F4-4FEB-9543-A3BBB6BCDCA9}|Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.models\\unidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEF9577-D8F4-4FEB-9543-A3BBB6BCDCA9}|Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj|solutionrelative:parcial2combateturnos.models\\unidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\turnoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\turnoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\turnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\turnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\vidaeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\vidaeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\iestadocombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\iestadocombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\estadoturnojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\estadoturnojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\estadoturnoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\estadoturnoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\estadocombatefinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\estadocombatefinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\combateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\combateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\combatelogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\combatelogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\combatefinalizadoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\combatefinalizadoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\calculadoradanio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\calculadoradanio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEF9577-D8F4-4FEB-9543-A3BBB6BCDCA9}|Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.models\\habilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEF9577-D8F4-4FEB-9543-A3BBB6BCDCA9}|Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj|solutionrelative:parcial2combateturnos.models\\habilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|solutionrelative:parcial2combateturnos.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.ui\\frmcombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|solutionrelative:parcial2combateturnos.ui\\frmcombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\parcial2combateturnos.ui\\frmcombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|solutionrelative:parcial2combateturnos.ui\\frmcombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.ui\\frmcombate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|solutionrelative:parcial2combateturnos.ui\\frmcombate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.ui\\uc_barravida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|solutionrelative:parcial2combateturnos.ui\\uc_barravida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\parcial2combateturnos.ui\\uc_barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|solutionrelative:parcial2combateturnos.ui\\uc_barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.ui\\uc_barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|solutionrelative:parcial2combateturnos.ui\\uc_barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.ui\\parcial2combateturnos.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3A23E40-E297-493F-B066-59FCF93042C1}|Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj|solutionrelative:parcial2combateturnos.ui\\parcial2combateturnos.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEF9577-D8F4-4FEB-9543-A3BBB6BCDCA9}|Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.models\\parcial2combateturnos.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CEF9577-D8F4-4FEB-9543-A3BBB6BCDCA9}|Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj|solutionrelative:parcial2combateturnos.models\\parcial2combateturnos.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|c:\\users\\pc\\source\\repos\\parcial2combateturnos\\parcial2combateturnos.bll\\parcial2combateturnos.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{356CFAC3-27B2-4F7F-B8C2-7A8373EAA8B0}|Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj|solutionrelative:parcial2combateturnos.bll\\parcial2combateturnos.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnoEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\TurnoEventArgs.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\TurnoEventArgs.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\TurnoEventArgs.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\TurnoEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:55:47.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unidad.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.Models\\Unidad.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.Models\\Unidad.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.Models\\Unidad.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.Models\\Unidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:21:28.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VidaEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\VidaEventArgs.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\VidaEventArgs.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\VidaEventArgs.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\VidaEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:53:45.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\TurnService.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\TurnService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\TurnService.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\TurnService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:22:02.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEstadoCombate.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\IEstadoCombate.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\IEstadoCombate.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\IEstadoCombate.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\IEstadoCombate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:29:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstadoTurnoJugador.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\EstadoTurnoJugador.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\EstadoTurnoJugador.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\EstadoTurnoJugador.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\EstadoTurnoJugador.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwD8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:45:20.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstadoTurnoIA.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\EstadoTurnoIA.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\EstadoTurnoIA.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\EstadoTurnoIA.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\EstadoTurnoIA.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:47:12.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoCombateFinalizado.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\EstadoCombateFinalizado.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\EstadoCombateFinalizado.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\EstadoCombateFinalizado.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\EstadoCombateFinalizado.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:49:53.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CombateService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\CombateService.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\CombateService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\CombateService.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\CombateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:56:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CombateLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\CombateLogRepository.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\CombateLogRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\CombateLogRepository.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\CombateLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:01:23.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CombateFinalizadoEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\CombateFinalizadoEventArgs.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\CombateFinalizadoEventArgs.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\CombateFinalizadoEventArgs.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\CombateFinalizadoEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:54:53.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculadoraDanio.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\CalculadoraDanio.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\CalculadoraDanio.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\CalculadoraDanio.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\CalculadoraDanio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:50:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Habilidad.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.Models\\Habilidad.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.Models\\Habilidad.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.Models\\Habilidad.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.Models\\Habilidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:41:52.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\Program.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:19:49.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmCombate.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\frmCombate.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.UI\\frmCombate.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\frmCombate.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.UI\\frmCombate.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:19:32.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmCombate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\frmCombate.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.UI\\frmCombate.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\frmCombate.cs [Design]",
+              "RelativeToolTip": "Parcial2CombateTurnos.UI\\frmCombate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:12:06.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmCombate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\frmCombate.Designer.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.UI\\frmCombate.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\frmCombate.Designer.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.UI\\frmCombate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:19:36.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_BarraVida.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\UC_BarraVida.Designer.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.UI\\UC_BarraVida.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\UC_BarraVida.Designer.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.UI\\UC_BarraVida.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:45:53.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_BarraVida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\UC_BarraVida.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.UI\\UC_BarraVida.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\UC_BarraVida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial2CombateTurnos.UI\\UC_BarraVida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:18:53.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_BarraVida.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\UC_BarraVida.cs",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.UI\\UC_BarraVida.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\UC_BarraVida.cs",
+              "RelativeToolTip": "Parcial2CombateTurnos.UI\\UC_BarraVida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:14:04.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Parcial2CombateTurnos.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj",
+              "RelativeToolTip": "Parcial2CombateTurnos.UI\\Parcial2CombateTurnos.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T14:19:22.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Parcial2CombateTurnos.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj",
+              "RelativeToolTip": "Parcial2CombateTurnos.Models\\Parcial2CombateTurnos.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T14:19:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Parcial2CombateTurnos.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj",
+              "RelativeDocumentMoniker": "Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Parcial2CombateTurnos\\Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj",
+              "RelativeToolTip": "Parcial2CombateTurnos.BLL\\Parcial2CombateTurnos.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T14:18:15.604Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

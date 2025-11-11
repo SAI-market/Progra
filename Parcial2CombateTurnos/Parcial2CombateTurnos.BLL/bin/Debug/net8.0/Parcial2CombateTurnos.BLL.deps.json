@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Parcial2CombateTurnos.BLL/1.0.0": {
+        "dependencies": {
+          "Parcial2CombateTurnos.Models": "1.0.0"
+        },
+        "runtime": {
+          "Parcial2CombateTurnos.BLL.dll": {}
+        }
+      },
+      "Parcial2CombateTurnos.Models/1.0.0": {
+        "runtime": {
+          "Parcial2CombateTurnos.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial2CombateTurnos.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parcial2CombateTurnos.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
