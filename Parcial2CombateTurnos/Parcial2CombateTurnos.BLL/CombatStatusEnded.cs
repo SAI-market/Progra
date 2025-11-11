@@ -7,19 +7,17 @@ using Parcial2CombateTurnos.Models;
 
 namespace Parcial2CombateTurnos.BLL
 {
-    // Estado que representa que el combate terminó.
-    internal class EstadoCombateFinalizado : IEstadoCombate
+    internal class CombatStatusEnded : StateofCombat
     {
-        private readonly CombateService _ctx;
+        private readonly CombatService _ctx;
         private readonly Unidad _ganador;
 
-        public EstadoCombateFinalizado(CombateService ctx, Unidad ganador)
+        public CombatStatusEnded(CombatService ctx, Unidad ganador)
         {
             _ctx = ctx;
             _ganador = ganador;
         }
 
-        // Al entrar, publica el mensaje final y dispara el evento de combate finalizado.
         public void Entrar()
         {
             var msg = _ganador == _ctx.Jugador ? "¡Has ganado el combate!" : "Has sido derrotado.";
@@ -27,7 +25,6 @@ namespace Parcial2CombateTurnos.BLL
             _ctx.OnCombateFinalizado_Invoke(_ganador);
         }
 
-        // Si alguien intenta actuar, informa que ya terminó.
         public void EjecutarAccionJugador(int habilidadId)
         {
             _ctx.PublicarLogInterno("El combate ya finalizó.");

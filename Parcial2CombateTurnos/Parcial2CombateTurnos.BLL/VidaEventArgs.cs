@@ -8,7 +8,6 @@ using Parcial2CombateTurnos.Models;
 
 namespace Parcial2CombateTurnos.BLL
 {
-    // Evento para enviar info de vida a la UI.
     public class VidaEventArgs : EventArgs
     {
         public Unidad Unidad { get; }

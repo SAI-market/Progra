@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Parcial2CombateTurnos.BLL
 {
-    // Contenedor público para el enum de turnos.
     public static class TurnService
     {
         public enum Turno

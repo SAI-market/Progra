@@ -7,10 +7,9 @@ using Parcial2CombateTurnos.Models;
 
 namespace Parcial2CombateTurnos.BLL
 {
-    // Evento simple que lleva cuando el combate termina.
-    public class CombateFinalizadoEventArgs : EventArgs
+    public class CombatEndedEventArgs : EventArgs
     {
         public Unidad Ganador { get; }
-        public CombateFinalizadoEventArgs(Unidad ganador) { Ganador = ganador; }
+        public CombatEndedEventArgs(Unidad ganador) { Ganador = ganador; }
     }
 }

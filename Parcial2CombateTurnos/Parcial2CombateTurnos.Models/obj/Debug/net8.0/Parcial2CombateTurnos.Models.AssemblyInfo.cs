@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parcial2CombateTurnos.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a8cf1029c45913e860590016faf451f671d7f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66f791fb8994924eff8f38b834ee21ced6e94726")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parcial2CombateTurnos.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parcial2CombateTurnos.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

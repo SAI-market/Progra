@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace Parcial2CombateTurnos.Models
 {
-    // Modelo de unidad con vida y lista de habilidades.
     public class Unidad
     {
         public string Nombre { get; set; }

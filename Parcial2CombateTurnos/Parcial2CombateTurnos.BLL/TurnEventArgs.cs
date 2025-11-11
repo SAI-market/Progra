@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Parcial2CombateTurnos.BLL
 {
-    // EventArgs para notificar qué turno es
-    public class TurnoEventArgs : EventArgs
+    public class TurnEventArgs : EventArgs
     {
         public TurnService.Turno TurnoActual { get; }
-        public TurnoEventArgs(TurnService.Turno turno) { TurnoActual = turno; }
+        public TurnEventArgs(TurnService.Turno turno) { TurnoActual = turno; }
     }
 }

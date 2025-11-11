@@ -8,7 +8,7 @@ namespace Parcial2CombateTurnos.UI
 {
     public partial class frmCombate : Form
     {
-        private CombateService _combateService;
+        private CombatService _combateService;
 
         public frmCombate()
         {
@@ -22,13 +22,11 @@ namespace Parcial2CombateTurnos.UI
 
         private void IniciarCombate()
         {
-            // Limpiar logs
             listBx_Logs.Items.Clear();
 
-            // Crear unidades
             var jugador = new Unidad
             {
-                Nombre = "Cazador",
+                Nombre = "Hunter",
                 VidaMax = 40,
                 VidaActual = 40,
                 Habilidades = new System.Collections.Generic.List<Habilidad>
@@ -42,7 +40,7 @@ namespace Parcial2CombateTurnos.UI
 
             var enemigo = new Unidad
             {
-                Nombre = "Orco",
+                Nombre = "Orc",
                 VidaMax = 35,
                 VidaActual = 35,
                 Habilidades = new System.Collections.Generic.List<Habilidad>
@@ -52,8 +50,7 @@ namespace Parcial2CombateTurnos.UI
                 }
             };
 
-            // Inicializar servicio
-            _combateService = new CombateService();
+            _combateService = new CombatService();
             _combateService.OnVidaCambiada += CombateService_OnVidaCambiada;
             _combateService.OnTurnoRegistrado += CombateService_OnTurnoRegistrado;
             _combateService.OnCombateFinalizado += CombateService_OnCombateFinalizado;
@@ -61,7 +58,6 @@ namespace Parcial2CombateTurnos.UI
 
             _combateService.IniciarCombate(jugador, enemigo);
 
-            // Rellenar ComboBox con habilidades del jugador
             cbx_Habilidades.Items.Clear();
             foreach (var h in jugador.Habilidades)
                 cbx_Habilidades.Items.Add(h);
@@ -69,14 +65,14 @@ namespace Parcial2CombateTurnos.UI
                 cbx_Habilidades.SelectedIndex = 0;
         }
 
-        private void CombateService_OnTurnoCambiado(object sender, TurnoEventArgs e)
+        private void CombateService_OnTurnoCambiado(object sender, TurnEventArgs e)
         {
             bool esJugador = e.TurnoActual == TurnService.Turno.Jugador;
             btn_ConfirmAction.Enabled = esJugador;
             cbx_Habilidades.Enabled = esJugador;
         }
 
-        private void CombateService_OnCombateFinalizado(object sender, CombateFinalizadoEventArgs e)
+        private void CombateService_OnCombateFinalizado(object sender, CombatEndedEventArgs e)
         {
             MessageBox.Show(e.Ganador == _combateService.Jugador ? "¡Ganaste!" : "Perdiste.");
             btn_ConfirmAction.Enabled = false;
