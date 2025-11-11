@@ -111,5 +111,10 @@ namespace Parcial2CombateTurnos.UI
         {
             IniciarCombate();
         }
+
+        private void uC_BarraVidaJugador_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

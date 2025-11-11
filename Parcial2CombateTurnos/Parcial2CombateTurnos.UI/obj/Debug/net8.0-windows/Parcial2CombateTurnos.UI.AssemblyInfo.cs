@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parcial2CombateTurnos.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a8cf1029c45913e860590016faf451f671d7f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parcial2CombateTurnos.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parcial2CombateTurnos.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

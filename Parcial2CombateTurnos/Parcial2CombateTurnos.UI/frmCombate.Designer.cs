@@ -38,23 +38,27 @@
             // 
             // uC_BarraVidaJugador
             // 
-            uC_BarraVidaJugador.Location = new Point(12, 91);
+            uC_BarraVidaJugador.Location = new Point(242, 7);
+            uC_BarraVidaJugador.Margin = new Padding(3, 2, 3, 2);
             uC_BarraVidaJugador.Name = "uC_BarraVidaJugador";
-            uC_BarraVidaJugador.Size = new Size(368, 131);
+            uC_BarraVidaJugador.Size = new Size(322, 98);
             uC_BarraVidaJugador.TabIndex = 0;
+            uC_BarraVidaJugador.Load += uC_BarraVidaJugador_Load;
             // 
             // uC_BarraVidaEnemigo
             // 
-            uC_BarraVidaEnemigo.Location = new Point(386, 91);
+            uC_BarraVidaEnemigo.Location = new Point(242, 99);
+            uC_BarraVidaEnemigo.Margin = new Padding(3, 2, 3, 2);
             uC_BarraVidaEnemigo.Name = "uC_BarraVidaEnemigo";
-            uC_BarraVidaEnemigo.Size = new Size(368, 131);
+            uC_BarraVidaEnemigo.Size = new Size(322, 98);
             uC_BarraVidaEnemigo.TabIndex = 1;
             // 
             // btn_ConfirmAction
             // 
-            btn_ConfirmAction.Location = new Point(286, 281);
+            btn_ConfirmAction.Location = new Point(578, 211);
+            btn_ConfirmAction.Margin = new Padding(3, 2, 3, 2);
             btn_ConfirmAction.Name = "btn_ConfirmAction";
-            btn_ConfirmAction.Size = new Size(94, 29);
+            btn_ConfirmAction.Size = new Size(82, 22);
             btn_ConfirmAction.TabIndex = 2;
             btn_ConfirmAction.Text = "Proceed";
             btn_ConfirmAction.UseVisualStyleBackColor = true;
@@ -63,24 +67,28 @@
             // listBx_Logs
             // 
             listBx_Logs.FormattingEnabled = true;
-            listBx_Logs.Location = new Point(386, 219);
+            listBx_Logs.ItemHeight = 15;
+            listBx_Logs.Location = new Point(181, 176);
+            listBx_Logs.Margin = new Padding(3, 2, 3, 2);
             listBx_Logs.Name = "listBx_Logs";
-            listBx_Logs.Size = new Size(389, 224);
+            listBx_Logs.Size = new Size(372, 124);
             listBx_Logs.TabIndex = 3;
             // 
             // cbx_Habilidades
             // 
             cbx_Habilidades.FormattingEnabled = true;
-            cbx_Habilidades.Location = new Point(12, 256);
+            cbx_Habilidades.Location = new Point(242, 304);
+            cbx_Habilidades.Margin = new Padding(3, 2, 3, 2);
             cbx_Habilidades.Name = "cbx_Habilidades";
-            cbx_Habilidades.Size = new Size(258, 28);
+            cbx_Habilidades.Size = new Size(226, 23);
             cbx_Habilidades.TabIndex = 4;
             // 
             // btn_Reset
             // 
-            btn_Reset.Location = new Point(286, 316);
+            btn_Reset.Location = new Point(578, 251);
+            btn_Reset.Margin = new Padding(3, 2, 3, 2);
             btn_Reset.Name = "btn_Reset";
-            btn_Reset.Size = new Size(94, 29);
+            btn_Reset.Size = new Size(82, 22);
             btn_Reset.TabIndex = 5;
             btn_Reset.Text = "Reset";
             btn_Reset.UseVisualStyleBackColor = true;
@@ -88,15 +96,16 @@
             // 
             // frmCombate
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(btn_Reset);
             Controls.Add(cbx_Habilidades);
             Controls.Add(listBx_Logs);
             Controls.Add(btn_ConfirmAction);
             Controls.Add(uC_BarraVidaEnemigo);
             Controls.Add(uC_BarraVidaJugador);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "frmCombate";
             Text = "Form1";
             Load += frmCombate_Load;
