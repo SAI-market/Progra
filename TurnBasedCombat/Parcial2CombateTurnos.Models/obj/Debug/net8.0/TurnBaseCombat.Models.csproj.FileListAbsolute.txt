@@ -1,0 +1,12 @@
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\bin\Debug\net8.0\TurnBaseCombat.Models.deps.json
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\bin\Debug\net8.0\TurnBaseCombat.Models.dll
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\bin\Debug\net8.0\TurnBaseCombat.Models.pdb
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\obj\Debug\net8.0\TurnBaseCombat.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\obj\Debug\net8.0\TurnBaseCombat.Models.AssemblyInfoInputs.cache
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\obj\Debug\net8.0\TurnBaseCombat.Models.AssemblyInfo.cs
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\obj\Debug\net8.0\TurnBaseCombat.Models.csproj.CoreCompileInputs.cache
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\obj\Debug\net8.0\TurnBaseCombat.Models.sourcelink.json
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\obj\Debug\net8.0\TurnBaseCombat.Models.dll
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\obj\Debug\net8.0\refint\TurnBaseCombat.Models.dll
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\obj\Debug\net8.0\TurnBaseCombat.Models.pdb
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.Models\obj\Debug\net8.0\ref\TurnBaseCombat.Models.dll

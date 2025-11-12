@@ -1,0 +1,5 @@
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.BLL\obj\Debug\net8.0\TurnBaseCombat.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.BLL\obj\Debug\net8.0\TurnBaseCombat.BLL.AssemblyInfoInputs.cache
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.BLL\obj\Debug\net8.0\TurnBaseCombat.BLL.AssemblyInfo.cs
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.BLL\obj\Debug\net8.0\TurnBaseCombat.BLL.csproj.CoreCompileInputs.cache
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.BLL\obj\Debug\net8.0\TurnBaseCombat.BLL.sourcelink.json

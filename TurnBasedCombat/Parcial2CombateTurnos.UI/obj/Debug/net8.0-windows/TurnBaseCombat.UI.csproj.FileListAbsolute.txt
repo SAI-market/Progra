@@ -1,0 +1,10 @@
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\TurnBaseCombat.UI.csproj.AssemblyReference.cache
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\Parcial2CombateTurnos.UI.frmCombate.resources
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\TurnBaseCombat.UI.Properties.Resources.resources
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\Parcial2CombateTurnos.UI.UC_BarraVida.resources
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\TurnBaseCombat.UI.csproj.GenerateResource.cache
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\TurnBaseCombat.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\TurnBaseCombat.UI.AssemblyInfoInputs.cache
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\TurnBaseCombat.UI.AssemblyInfo.cs
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\TurnBaseCombat.UI.csproj.CoreCompileInputs.cache
+D:\Github\Progra\Parcial2CombateTurnos\Parcial2CombateTurnos.UI\obj\Debug\net8.0-windows\TurnBaseCombat.UI.sourcelink.json
